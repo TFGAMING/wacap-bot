@@ -12,21 +12,21 @@ TELAH MEMBUKA MENU DONASI
 ⏰*${tampilWaktu}* 🐼
 (Waktu Server)
 
-KALIAN BISA DONASI MENGGUNAKAN
-   
-🛡 *PULSA*: 081271699856
-🛡 *OVO*: 081271699856
-🛡 *DANA* : 081271699866
-🛡 *GOPAY* : 081271699856
 
-📺*IKLAN* *YOUTUBE REUZ*
+   
+
+
+
+
+
+📺*IKLAN* *YOUTUBE Franchou*
 
 
 ⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇
 FOLLOW INSTAGRAM SAYA
 ${instagram}
 
-👾TELEGRAM : ${telegram}
 
-`
+
+
 }
